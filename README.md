@@ -1,4 +1,4 @@
-# AtliQ Hospitality Analysis - PowerBI
+# T20 world cup cricket data analytics - Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
 
 
 
