@@ -24,13 +24,6 @@ We used bright data web scraping to collect data from the ESPN Cricinfo website 
 
 
 
-## Learnt things from this Project 
-From a technical perspective, this project involves several key learnings:
-
-
-
-
-## Some Important insights from the Dashboard
 
 
 
