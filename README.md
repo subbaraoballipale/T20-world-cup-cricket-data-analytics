@@ -6,7 +6,7 @@ Link to the [Data Set](https://github.com/subbaraoballipale/T20-world-cup-cricke
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/t20-world-cup-cricket-data-analytics-)
 
-Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
+Link to [Presentation Video]()
 
 ## Problem statement
 
